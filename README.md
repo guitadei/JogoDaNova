@@ -1,5 +1,7 @@
 Este foi uma atividade da disciplina de Estrutura de Dados, ministrada pelo professor Alechandre Ichiro Hasimoto, curso de Ciência de Dados, da Fatec Cotia.
+
 O exercício proposto foi a criação de um código para o famoso "Jogo da Velha", a fim de trabalharmos com matrizes.
+
 Minha atividade foi a estruturação da lógica e um script para trabalhar em conjunto com o ChatGPT. 
 Abaixo as instruções que formulei e passei a ele, onde tive uma assertividade grande com o que eu queria. O código em anexo foi a primeira resposta dele.
 Instruções para o Jogo Da Nova, texto em Python:
